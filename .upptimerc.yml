@@ -13,6 +13,8 @@ sites:
     url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
   - name: Ethplorer Binance Smart Chain
     url: https://api.binplorer.com/getLastBlock?apiKey=freekey
+  - name: CoinGecko
+    url: https://api.coingecko.com/api/v3/ping
   - name: Upptime
     url: https://jeircul.github.io/upptime/
 
