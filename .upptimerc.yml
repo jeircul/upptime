@@ -17,7 +17,7 @@ sites:
     url: https://api.binplorer.com/getLastBlock?apiKey=freekey
 
 status-website:
-  baseUrl: /Upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -25,9 +25,9 @@ status-website:
   theme: dark
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
-      href: https://github.com/jeircul/upptime
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
