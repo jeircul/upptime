@@ -15,6 +15,11 @@ sites:
     url: https://api.binplorer.com/getLastBlock?apiKey=freekey
   - name: CoinGecko
     url: https://api.coingecko.com/api/v3/ping
+  - name: Firi
+    url: https://api.firi.com/time
+    headers:
+      - "miraiex-access-key: $FIRI_API"
+      - "Content-Type: application/json"
   - name: Upptime
     url: https://jeircul.github.io/upptime/
 
