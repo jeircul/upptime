@@ -5,18 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: joracul
     url: https://www.joracul.duckdns.org/
+    icon: https://www.hypergridbusiness.com/wp-content/uploads/2014/04/DuckDNS-logo.jpg
   - name: Nextcloud
     url: https://nextcloud.joracul.duckdns.org
+    icon: https://nextcloud.joracul.duckdns.org/core/img/logo/logo.svg
   - name: PhotoPrism
     url: https://photoprism.joracul.duckdns.org
+    icon: https://photoprism.joracul.duckdns.org/static/icons/logo.svg
   - name: API Ethplorer
     url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
+    icon: https://ethplorer.io/images/6c4011bd34a5c4564973bea662033b56.png
   - name: API Ethplorer BSC
     url: https://api.binplorer.com/getLastBlock?apiKey=freekey
+    icon: https://ethplorer.io/images/6c4011bd34a5c4564973bea662033b56.png
   - name: API CoinGecko
     url: https://api.coingecko.com/api/v3/ping
+    icon: http://bitcoinist.com/wp-content/uploads/2014/06/CoinGecko_Logo-300x225.jpg
   - name: API Firi
     url: https://api.firi.com/time
+    icon: https://kryptoguiden.no/wp-content/uploads/2021/10/firilogo.png
     headers:
       - "Content-Type: application/json"
       - "miraiex-access-key: $FIRI_API"
@@ -26,7 +33,8 @@ sites:
     headers:
       - "Content-Type: application/json"
   - name: Upptime
-    url: https://jeircul.github.io/upptime/
+    url: https://jeircul.github.io/upptime
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
 
 status-website:
   baseUrl: /upptime
