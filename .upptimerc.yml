@@ -24,7 +24,6 @@ sites:
     url: https://public-api.solscan.io/block/last?limit=10
     headers:
       - "Content-Type: application/json"
-      # - "token: $SOLSCAN_API"
   - name: Upptime
     url: https://jeircul.github.io/upptime/
 
