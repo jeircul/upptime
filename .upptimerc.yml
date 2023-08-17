@@ -9,19 +9,20 @@ sites:
     url: https://nextcloud.joracul.duckdns.org
   - name: PhotoPrism
     url: https://photoprism.joracul.duckdns.org
-  - name: Ethplorer Ethereum Mainnet
+  - name: API Ethplorer
     url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
-  - name: Ethplorer Binance Smart Chain
+  - name: API Ethplorer BSC
     url: https://api.binplorer.com/getLastBlock?apiKey=freekey
-  - name: CoinGecko
+  - name: API CoinGecko
     url: https://api.coingecko.com/api/v3/ping
-  - name: Firi
+  - name: API Firi
     url: https://api.firi.com/time
     headers:
       - "Content-Type: application/json"
       - "miraiex-access-key: $FIRI_API"
-  - name: Solscan
+  - name: API Solscan
     url: https://public-api.solscan.io/block/last?limit=10
+    icon: https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg
     headers:
       - "Content-Type: application/json"
   - name: Upptime
