@@ -18,8 +18,13 @@ sites:
   - name: Firi
     url: https://api.firi.com/time
     headers:
-      - "miraiex-access-key: $FIRI_API"
       - "Content-Type: application/json"
+      - "miraiex-access-key: $FIRI_API"
+  - name: Solscan
+    url: https://public-api.solscan.io/block/last?limit=10
+    headers:
+      - "Content-Type: application/json"
+      # - "token: $SOLSCAN_API"
   - name: Upptime
     url: https://jeircul.github.io/upptime/
 
