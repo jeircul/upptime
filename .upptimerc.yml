@@ -12,29 +12,29 @@ sites:
   - name: PhotoPrism
     url: https://photoprism.joracul.duckdns.org
     icon: https://photoprism.joracul.duckdns.org/static/icons/logo.svg
-  - name: API Ethplorer
+  - name: Upptime
+    url: https://jeircul.github.io/upptime
+    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
+  - name: Ethplorer API 
     url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
     icon: https://ethplorer.io/images/eth.png
-  - name: API Binplorer
+  - name: Binplorer API
     url: https://binplorer.com/images/0775fc6cdb5dbf3d709e494899708dab.png
     icon: https://ethplorer.io/images/BNBb8c77482.png
-  - name: API CoinGecko
+  - name: CoinGecko API
     url: https://api.coingecko.com/api/v3/ping
     icon: http://bitcoinist.com/wp-content/uploads/2014/06/CoinGecko_Logo-300x225.jpg
-  - name: API Firi
+  - name: Firi API
     url: https://api.firi.com/time
     icon: https://kryptoguiden.no/wp-content/uploads/2021/10/firilogo.png
     headers:
       - "Content-Type: application/json"
       - "miraiex-access-key: $FIRI_API"
-  - name: API Solscan
+  - name: Solscan API
     url: https://public-api.solscan.io/block/last?limit=10
     icon: https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg
     headers:
       - "Content-Type: application/json"
-  - name: Upptime
-    url: https://jeircul.github.io/upptime
-    icon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
 
 status-website:
   baseUrl: /upptime
