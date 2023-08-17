@@ -14,10 +14,10 @@ sites:
     icon: https://photoprism.joracul.duckdns.org/static/icons/logo.svg
   - name: API Ethplorer
     url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
-    icon: https://ethplorer.io/images/6c4011bd34a5c4564973bea662033b56.png
-  - name: API Ethplorer BSC
-    url: https://api.binplorer.com/getLastBlock?apiKey=freekey
-    icon: https://ethplorer.io/images/6c4011bd34a5c4564973bea662033b56.png
+    icon: https://ethplorer.io/images/eth.png
+  - name: API Binplorer
+    url: https://binplorer.com/images/0775fc6cdb5dbf3d709e494899708dab.png
+    icon: https://ethplorer.io/images/BNBb8c77482.png
   - name: API CoinGecko
     url: https://api.coingecko.com/api/v3/ping
     icon: http://bitcoinist.com/wp-content/uploads/2014/06/CoinGecko_Logo-300x225.jpg
