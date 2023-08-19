@@ -35,6 +35,7 @@ sites:
     icon: https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg
     headers:
       - "Content-Type: application/json"
+      - "token: $SOLSCAN_API"
 
 status-website:
   baseUrl: /upptime
