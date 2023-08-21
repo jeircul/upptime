@@ -5,38 +5,36 @@
     "icon": "https://www.hypergridbusiness.com/wp-content/uploads/2014/04/DuckDNS-logo.jpg",
     "slug": "joracul",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 764,
     "timeDay": 355,
     "timeWeek": 764,
     "timeMonth": 764,
     "timeYear": 764,
-    "dailyMinutesDown": {
-      "2023-08-21": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
     "url": "https://nextcloud.joracul.duckdns.org",
     "icon": "https://nextcloud.joracul.duckdns.org/core/img/logo/logo.svg",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1506,
     "timeDay": 582,
     "timeWeek": 1506,
     "timeMonth": 1506,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2023-08-21": 7
+      "2023-08-21": 0
     }
   },
   {
@@ -45,19 +43,17 @@
     "icon": "https://photoprism.joracul.duckdns.org/static/icons/logo.svg",
     "slug": "photo-prism",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 979,
     "timeDay": 399,
     "timeWeek": 979,
     "timeMonth": 979,
     "timeYear": 979,
-    "dailyMinutesDown": {
-      "2023-08-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upptime",
@@ -155,11 +151,11 @@
     "icon": "https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg",
     "slug": "solscan-api",
     "status": "up",
-    "uptime": "53.76%",
+    "uptime": "53.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.76%",
-    "uptimeMonth": "53.76%",
-    "uptimeYear": "53.76%",
+    "uptimeWeek": "53.89%",
+    "uptimeMonth": "53.89%",
+    "uptimeYear": "53.89%",
     "time": 457,
     "timeDay": 608,
     "timeWeek": 457,
