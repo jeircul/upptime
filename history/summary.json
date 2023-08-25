@@ -40,9 +40,9 @@
     "url": "https://photoprism.joracul.duckdns.org",
     "icon": "https://photoprism.joracul.duckdns.org/static/icons/logo.svg",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1244,
     "timeMonth": 1178,
     "timeYear": 1178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   },
   {
     "name": "Upptime",
@@ -149,11 +151,11 @@
     "icon": "https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg",
     "slug": "solscan-api",
     "status": "up",
-    "uptime": "75.17%",
+    "uptime": "75.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "75.17%",
-    "uptimeYear": "75.17%",
+    "uptimeWeek": "82.89%",
+    "uptimeMonth": "75.91%",
+    "uptimeYear": "75.91%",
     "time": 660,
     "timeDay": 661,
     "timeWeek": 805,
