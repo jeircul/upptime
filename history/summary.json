@@ -6,8 +6,8 @@
     "slug": "joracul",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
     "time": 1508,
@@ -16,7 +16,7 @@
     "timeMonth": 1508,
     "timeYear": 1508,
     "dailyMinutesDown": {
-      "2023-08-27": 54
+      "2023-08-27": 55
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://nextcloud.joracul.duckdns.org/core/img/logo/logo.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "96.74%",
+    "uptime": "99.70%",
+    "uptimeDay": "96.68%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 1916,
-    "timeDay": 4347,
-    "timeWeek": 2378,
-    "timeMonth": 1916,
-    "timeYear": 1916,
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 1885,
+    "timeDay": 3668,
+    "timeWeek": 2268,
+    "timeMonth": 1885,
+    "timeYear": 1885,
     "dailyMinutesDown": {
-      "2023-08-27": 47
+      "2023-08-27": 48
     }
   },
   {
@@ -44,10 +44,10 @@
     "url": "https://photoprism.joracul.duckdns.org",
     "icon": "https://photoprism.joracul.duckdns.org/static/icons/logo.svg",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 1927,
@@ -155,11 +155,11 @@
     "icon": "https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg",
     "slug": "solscan-api",
     "status": "up",
-    "uptime": "81.87%",
+    "uptime": "81.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.87%",
-    "uptimeYear": "81.87%",
+    "uptimeMonth": "81.90%",
+    "uptimeYear": "81.90%",
     "time": 649,
     "timeDay": 551,
     "timeWeek": 807,
