@@ -26,10 +26,10 @@
     "url": "https://nextcloud.joracul.duckdns.org",
     "icon": "https://nextcloud.joracul.duckdns.org/core/img/logo/logo.svg",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
     "time": 2093,
@@ -38,7 +38,7 @@
     "timeMonth": 2093,
     "timeYear": 2093,
     "dailyMinutesDown": {
-      "2023-09-02": 23,
+      "2023-09-02": 24,
       "2023-08-29": 35,
       "2023-08-27": 47
     }
@@ -48,9 +48,9 @@
     "url": "https://photoprism.joracul.duckdns.org",
     "icon": "https://photoprism.joracul.duckdns.org/static/icons/logo.svg",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
@@ -60,6 +60,7 @@
     "timeMonth": 1910,
     "timeYear": 1910,
     "dailyMinutesDown": {
+      "2023-09-02": 0,
       "2023-08-29": 35,
       "2023-08-27": 40
     }
@@ -160,11 +161,11 @@
     "icon": "https://solscan.io/static/media/solana-sol-logo.b612f1402147c92338bed5af1879b175.svg",
     "slug": "solscan-api",
     "status": "up",
-    "uptime": "88.01%",
+    "uptime": "88.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "88.01%",
+    "uptimeMonth": "88.07%",
+    "uptimeYear": "88.07%",
     "time": 668,
     "timeDay": 601,
     "timeWeek": 682,
