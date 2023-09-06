@@ -5,18 +5,18 @@
     "icon": "https://www.hypergridbusiness.com/wp-content/uploads/2014/04/DuckDNS-logo.jpg",
     "slug": "joracul",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.29%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 1994,
     "timeDay": 5393,
     "timeWeek": 3205,
     "timeMonth": 1994,
     "timeYear": 1994,
     "dailyMinutesDown": {
-      "2023-09-06": 19,
+      "2023-09-06": 20,
       "2023-09-02": 105,
       "2023-08-29": 35,
       "2023-08-27": 54
@@ -29,7 +29,7 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.40%",
@@ -39,7 +39,7 @@
     "timeMonth": 2236,
     "timeYear": 2236,
     "dailyMinutesDown": {
-      "2023-09-06": 18,
+      "2023-09-06": 19,
       "2023-09-02": 81,
       "2023-08-29": 35,
       "2023-08-27": 47
@@ -128,19 +128,17 @@
     "icon": "http://bitcoinist.com/wp-content/uploads/2014/06/CoinGecko_Logo-300x225.jpg",
     "slug": "coin-gecko-api",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 105,
     "timeWeek": 117,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {
-      "2023-09-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firi API",
