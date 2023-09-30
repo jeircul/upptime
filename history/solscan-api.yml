@@ -1,7 +1,7 @@
 url: https://public-api.solscan.io/block/last?limit=10
-status: down
-code: 500
-responseTime: 396
-lastUpdated: 2023-09-30T06:47:49.360Z
+status: up
+code: 200
+responseTime: 400
+lastUpdated: 2023-09-30T07:08:04.643Z
 startTime: 2023-08-17T15:00:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
