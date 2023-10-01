@@ -1,7 +1,7 @@
 url: https://public-api.solscan.io/block/last?limit=10
 status: up
 code: 200
-responseTime: 258
-lastUpdated: 2023-10-01T11:52:27.021Z
+responseTime: 643
+lastUpdated: 2023-10-01T23:08:17.220Z
 startTime: 2023-08-17T15:00:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
