@@ -1,7 +1,7 @@
 url: https://api.coingecko.com/api/v3/ping
 status: up
 code: 200
-responseTime: 168
-lastUpdated: 2023-10-15T23:07:28.382Z
+responseTime: 84
+lastUpdated: 2023-10-16T23:07:46.380Z
 startTime: 2023-08-17T15:00:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
