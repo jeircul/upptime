@@ -1,7 +1,7 @@
 url: https://api.ethplorer.io/getLastBlock?apiKey=freekey
-status: down
-code: 502
-responseTime: 489
-lastUpdated: 2023-10-28T05:21:49.598Z
+status: up
+code: 200
+responseTime: 649
+lastUpdated: 2023-10-28T05:37:33.979Z
 startTime: 2023-08-17T15:00:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
