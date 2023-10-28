@@ -117,19 +117,19 @@
     "url": "https://api.ethplorer.io/getLastBlock?apiKey=freekey",
     "icon": "https://ethplorer.io/images/eth.png",
     "slug": "ethplorer-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 580,
-    "timeDay": 620,
-    "timeWeek": 617,
-    "timeMonth": 605,
-    "timeYear": 580,
+    "time": 579,
+    "timeDay": 600,
+    "timeWeek": 608,
+    "timeMonth": 602,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2023-10-28": 16
+      "2023-10-28": 24
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeMonth": 533,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-10-28": 345,
+      "2023-10-28": 353,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
