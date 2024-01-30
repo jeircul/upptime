@@ -1,7 +1,7 @@
 url: https://public-api.solscan.io/block/last?limit=10
 status: down
 code: 404
-responseTime: 387
-lastUpdated: 2024-01-29T23:09:06.026Z
+responseTime: 213
+lastUpdated: 2024-01-30T23:08:17.880Z
 startTime: 2023-08-17T15:00:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
