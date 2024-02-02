@@ -78,7 +78,7 @@
     "url": "https://photoprism.joracul.duckdns.org",
     "icon": "https://photoprism.joracul.duckdns.org/static/icons/logo.svg",
     "slug": "photo-prism",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "97.89%",
     "uptimeWeek": "99.70%",
@@ -218,7 +218,7 @@
     "timeMonth": 204,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2024-02-02": 867,
+      "2024-02-02": 891,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
